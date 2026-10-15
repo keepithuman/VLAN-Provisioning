@@ -1,0 +1,1 @@
+{"result":{"stdout":"Building configuration...\n\nCurrent configuration : 120 bytes\n!\ninterface GigabitEthernet1/0/39\n description \"Test\"\n switchport access vlan 10\n switchport mode access\n shutdown\nend\n","return_code":0}}

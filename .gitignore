@@ -1,0 +1,10 @@
+# credentials and tokens
+.env
+.auth.json
+# per-environment state
+build/ids.json
+build/members.json
+build/import-response.json
+__pycache__/
+*.pyc
+.DS_Store

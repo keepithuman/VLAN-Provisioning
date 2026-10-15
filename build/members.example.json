@@ -1,0 +1,5 @@
+{"members": [
+  {"type": "account", "role": "owner", "reference": "<service-account-id>"},
+  {"type": "account", "role": "owner", "reference": "<your-account-id>"},
+  {"type": "group", "role": "editor", "reference": "<group-id>"}
+]}

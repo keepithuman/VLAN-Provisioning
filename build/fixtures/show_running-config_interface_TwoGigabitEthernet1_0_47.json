@@ -1,0 +1,1 @@
+{"result":{"stdout":"Building configuration...\n\nCurrent configuration : 42 bytes\n!\ninterface TwoGigabitEthernet1/0/47\nend\n","return_code":0}}
